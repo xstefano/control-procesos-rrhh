@@ -1,0 +1,6 @@
+"# Sistema de Control de Procesos de RRHH" 
+"" 
+"Este repositorio contiene los diagramas de procesos para:" 
+"- Control de Asistencia" 
+"- Gesti¢n de Permisos" 
+"- Control de Faltas" 
