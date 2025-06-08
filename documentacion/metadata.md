@@ -1,0 +1,6 @@
+"# Metadata de Procesos" 
+"" 
+"## Información General" 
+"- Fecha de creación: Mayo 2025" 
+"- Herramienta: Bizagi Modeler" 
+"- Versión: 1.0" 
