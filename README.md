@@ -18,3 +18,6 @@
 "## Instrucciones de Uso" 
 "1. Abrir archivos .bpm con Bizagi Modeler" 
 "2. Los diagramas est n en la carpeta 'diagramas/'" 
+"" 
+"## Historial de Versiones" 
+"- v1.0: Implementaci¢n inicial de todos los procesos de RRHH" 
