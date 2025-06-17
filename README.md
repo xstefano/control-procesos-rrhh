@@ -1,23 +1,25 @@
-"# Sistema de Control de Procesos de RRHH" 
-"" 
-"Este repositorio contiene los diagramas de procesos para:" 
-"- Control de Asistencia" 
-"- Gesti髇 de Permisos" 
-"- Control de Faltas" 
-"" 
-"## Descripci髇 de Procesos" 
-"" 
-"### 1. Control de Asistencia" 
-"Proceso que gestiona el registro y control de asistencia del personal." 
-"" 
-"### 2. Gesti髇 de Permisos" 
-"Proceso para solicitud, aprobaci髇 y control de permisos laborales." 
-"" 
-"### 3. Control de Faltas" 
-"" 
-"## Instrucciones de Uso" 
-"1. Abrir archivos .bpm con Bizagi Modeler" 
-"2. Los diagramas est爊 en la carpeta 'diagramas/'" 
-"" 
-"## Historial de Versiones" 
-"- v1.0: Implementaci inicial de todos los procesos de RRHH" 
+# Sistema de Control de Procesos de RRHH
+
+Este repositorio contiene los diagramas de procesos para:
+- Control de Asistencia
+- Gesti贸n de Permisos
+- Control de Faltas
+
+## Descripci贸n de Procesos
+
+### 1. Control de Asistencia
+Proceso que gestiona el registro y control de asistencia del personal.
+
+### 2. Gesti贸n de Permisos
+Proceso para solicitud, aprobaci贸n y control de permisos laborales.
+
+### 3. Control de Faltas
+Proceso para registro y seguimiento de faltas del personal.
+
+## Instrucciones de Uso
+1. Abrir archivos .bpm con Bizagi Modeler
+2. Los diagramas est谩n en la carpeta 'diagramas/'
+3. La documentaci贸n est谩 en 'documentacion/'
+
+## Historial de Versiones
+- v1.0: Implementaci贸n inicial de todos los procesos de RRHH
